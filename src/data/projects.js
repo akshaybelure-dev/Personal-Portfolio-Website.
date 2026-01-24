@@ -15,7 +15,7 @@ const projects = [
     description:
       "A Spotify-inspired UI with playlists, responsive layout, and modern design patterns.",
     image: spotifyImg,
-    link: "https://your-spotify-clone-link.com",
+    link: "akshaybelure-dev.github.io/spotify-clone/",
   },
   {
     title: "CurryCraft",
