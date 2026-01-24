@@ -202,7 +202,7 @@ body {
 .project-preview-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.55);
+  background: rgba(0, 0, 0, 0.15);
   color: #fff;
   display: flex;
   align-items: flex-end;
